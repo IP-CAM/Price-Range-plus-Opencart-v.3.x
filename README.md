@@ -21,6 +21,7 @@ Please feel free to contact me through the «Get Support» form or comments on t
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 * To allows manual added price ranges it needs to download and install [Alter Table](https://github.com/underr-ua/ocmod3-alter-table) extension.
+* To enable compatibility with Live Options+ and Live Products+ extensions it needs to download and install [Price Range Live](https://github.com/underr-ua/ocmod3-price-range-live) extension.
 
 ## How to configure
 * Admin > Extensions > Extensions > Modules > [underr] Price Range+ > [Install]
