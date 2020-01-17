@@ -37,8 +37,8 @@ Please feel free to contact me through the «Get Support» form or comments on t
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo
-* [Admin](http://ocmod.freevar.com/oc3020/c/admin/index.php?route=extension/module/price_range)
-* [Front](http://ocmod.freevar.com/oc3020/c)
+* [Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/price_range)
+* [Front](http://ocmod.freevar.com/oc3020/a)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38331)
